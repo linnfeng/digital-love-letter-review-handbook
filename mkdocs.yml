@@ -1,0 +1,7 @@
+site_name: Digital Love Letter Review Handbook
+site_description: Practical documentation for reviewing a personal letter.
+docs_dir: docs
+theme:
+  name: readthedocs
+nav:
+  - Review handbook: index.md
